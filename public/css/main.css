@@ -1,0 +1,17 @@
+@import url("bootstrap.min.css");
+
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
+
+body {
+    font-family: "Quicksand", sans-serif;
+    background-color: rgb(241, 240, 240);
+}
+
+.br-0 {
+    border-radius: 0px;
+}
+
+.fxh {
+    height: 97px;
+    overflow: hidden;
+}
