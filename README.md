@@ -33,6 +33,11 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
+## Images
+![Screenshot 2023-05-23 151024](https://github.com/TheCodeDaniel/Laravel-blog/assets/130862856/349d27b3-25fa-45ac-8ab4-9d98bf8b30ad)
+
+![Screenshot 2023-05-23 151039](https://github.com/TheCodeDaniel/Laravel-blog/assets/130862856/f40d54bb-662e-4236-bf93-ccb455db6cd9)
+
 ### Premium Partners
 
 - **[Vehikl](https://vehikl.com/)**
